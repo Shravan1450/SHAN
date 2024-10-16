@@ -1,98 +1,108 @@
-# SHAN
-[![Actions Status](https://github.com/guilyx/guilyx/workflows/wakatime-stats/badge.svg)](https://github.com/guilyx/guilyx/actions)
-[![Actions Status](https://github.com/guilyx/guilyx/workflows/update-gh-activity/badge.svg)](https://github.com/guilyx/guilyx/actions)
-![](https://visitor-badge.glitch.me/badge?page_id=guilyx.guilyx)
+<h2><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> नमस्ते (Namaste)🙏🏻, I'm Anmol Pratap Singh! <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
+<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
+<p><em>Associate Technical Lead at <a href="https://www.oneorigin.us/">OneOrigin
+</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+</em></p>
 
-<!-- <p align="center">
-<img alt="loficity" width="600px" src="https://github.com/HyunCafe/HyunCafe/raw/main/assests/loficity.gif"</img>
-</p> -->
+[![Twitter Follow](https://img.shields.io/twitter/follow/misteranmol?label=Follow)](https://twitter.com/intent/follow?screen_name=misteranmol)
+[![Linkedin: anmol](https://img.shields.io/badge/-anmol-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anmol-p-singh/)](https://www.linkedin.com/in/anmol098/)
+![GitHub followers](https://img.shields.io/github/followers/anmol098?label=Follow&style=social)
+[![website](https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=https://anmolsingh.me/)](https://anmolsingh.me/)
+![](https://visitor-badge.glitch.me/badge?page_id=anmol098.anmol098)
+![Waka Readme](https://github.com/anmol098/anmol098/workflows/Waka%20Readme/badge.svg)
 
-<p align="center">
-  <img src="https://socialify.git.ci/guilyx/guilyx/image?font=Source%20Code%20Pro&forks=1&issues=1&language=1&name=1&owner=1&pattern=Plus&pulls=1&stargazers=1&theme=Dark" alt="guilyx" width="700" height="300" />
-</p>
+### 📫 Like to meet me?
 
-<p align="center">
-<br/>
-<a href="https://www.linkedin.com/in/erwinlejeune-lkn">
-  <img alt="guilyx's LinkdeIN" width="50px" src="https://user-images.githubusercontent.com/43545812/144035037-0f415fc7-9f96-4517-a370-ccc6e78a714b.png" />
-</a>
-<a href="https://open.spotify.com/user/11147618695?si=zZFn6uAGRLyoU02lsG50GA">
-  <img alt="guilyx's Spotify" width="50px" src="https://user-images.githubusercontent.com/43545812/144035120-1ad5169b-91c7-4078-bef9-6a82c733f373.png" />
-</a>
-<br>
-</p>
+Pick a slot if you'd like to meet me and chat about anything you are passionate about - but make sure to describe the agenda
 
-<p align="center">
-  <img alig src="https://github-profile-trophy.vercel.app/?username=guilyx&theme=onedark&column=-1" />
-</p>
+<a href="https://calendly.com/anmol098/30min" target="_blank"><img width="498" alt="meet_link" src="https://user-images.githubusercontent.com/15426564/144297439-f530f383-e73e-41e0-9914-a9b7d3f432e5.png"></a>
 
-[![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=guilyx&theme=github-dark-dimmed&custom_title=Guilyx%20Activity%20Graph&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+👇 Hit in your console or terminal to connect with me.
 
-```yaml
-name: Erwin Lejeune
-located_in: Abu Dhabi, UAE
-from: Nantes (France)
-job: Robotics Software Engineer (UAV Swarms)
-education: ["Master's in Robotics", "Master's in Embedded Systems", "Bachelor's in Electronics"]
-company: Technology Innovation Institute
-past experiences: 
-  - ["Sr Robotics Software Engineer", "UGV Navigation", "Coalescent Mobile Robotics", "Denmark", "2021-2022"]
-  - ["Backend Software Engineer", "Web App Backend (Go/Postgre)", "Hiventive", "Fully Remote", "2020-2021"]
-  - ["Robotics Researcher", "AI Planning/Control", "LS2N", "France", "2019-2021]
-  - ["Robotics Intern", "UGVs", "Ingeniarius", "Portugal", "2019"]
-  - ["Embedded Systems Engineer", "STM32 Virtualization", "Hiventive", "France", "2018-2019"]
-  - ["Robotics Intern", "UGVs", "Laboratory of Digital Sciences of Nantes (LS2N)", "France", "2019"]
+```bash
+npx anmol
+```
+**👆 This command line tool can be found at [npx anmol](https://github.com/anmol098/npx_card)**
 
-fields_of_interests: ["Path Planning", "Trajectory Planning", "Path Following", "Behaviour Planning", 
-                      "Localization", "Sensor Fusion", "Embedded Systems"]
-technical_background: ["Motion Planning", "Optimization", 
-                       "Nonlinear Control", "Real-Time Systems", "Automated Planning"]
-currently_learning: ["Web3", "React", "Vue"]
-will_learn: ["Blockchain (backend)"]
-hobbies: ["Basketball", "Cinema", "Competitive Gaming", "IoT"]
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
+
+```javascript
+const anmol = {
+    pronouns: "He" | "Him",
+    code: ["TypeScript", "Javascript", "Python", "Dart"],
+    askMeAbout: ["web dev", "app dev", "cloud computing", "UI/UX", "tech trends"],
+    technologies: {
+        frontEnd: {
+            js: ["React", "Next.js"],
+            css: ["Sass", "Tailwind", "Bootstrap"],
+            uiLibraries: ["Material UI", "Ant Design", "Chakra UI"],
+        },
+        backEnd: {
+            js: ["Node", "Express", "NestJS"],
+            python: ["Flask"],
+        },
+        mobileApp: {
+            crossPlatform: ["Flutter"],
+        },
+        devOps: ["Docker🐳", "CI/CD", "Nginx", "GitHub Actions"],
+        cloudServices: {
+            aws: ["AWS Fargate", "EC2", "S3", "Lambda", "CloudWatch", "RDS"],
+        },
+        databases: ["PostgreSQL", "MongoDB", "SQLite", "Firebase Realtime DB", "redis"],
+        misc: ["Socket.IO", "REST APIs", "WebSockets", "Cloud Functions"],
+        generativeAI: ["GPT", "Vectorization"],
+    },
+    architecture: {
+        frontEnd: ["SPA", "SSR"],
+        backEnd: ["microservices", "monolithic", "serverless"],
+        devOps: ["CloudFormation", "Serverless Framework"],
+        databases: ["Relational", "NoSQL", "In-memory"],
+    },
+    currentFocus: "Leading a way in generative AI innovation",
+    funFact: "I can debug faster with a coffee in hand!"
+};
 ```
 
-<p align="center">
-  <img src="https://spotify-github-profile.vercel.app/api/view?uid=11147618695&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false">
-</p>
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
 
-<p align="center">
-  <img src="https://spotify-recently-played-readme.vercel.app/api?user=11147618695&count=5">
-</p>
-
-
-**:zap: Recent Activity:**
-
-<!--START_SECTION:activity-->
-1. 🗣 Commented on [#4430](https://github.com/LayerZero-Labs/sybil-report/issues/4430#issuecomment-2118810886) in [LayerZero-Labs/sybil-report](https://github.com/LayerZero-Labs/sybil-report)
-2. ❗ Opened issue [#2](https://github.com/guilyx/blockchain_learning/issues/2) in [guilyx/blockchain_learning](https://github.com/guilyx/blockchain_learning)
-3. 🗣 Commented on [#1](https://github.com/guilyx/blockchain_learning/issues/1#issuecomment-2061876303) in [guilyx/blockchain_learning](https://github.com/guilyx/blockchain_learning)
-4. 🗣 Commented on [#1](https://github.com/guilyx/blockchain_learning/issues/1#issuecomment-2051379291) in [guilyx/blockchain_learning](https://github.com/guilyx/blockchain_learning)
-5. ❗ Opened issue [#1](https://github.com/guilyx/blockchain_learning/issues/1) in [guilyx/blockchain_learning](https://github.com/guilyx/blockchain_learning)
-<!--END_SECTION:activity-->
-
+---
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C801%20hrs%2017%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C138%20hrs%2055%20mins-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-74.7%20million%20lines%20of%20code-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-823-blue)
+
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-6.7%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 335.0 kB Used in GitHub's Storage 
+> 📦 251.1 kB Used in GitHub's Storage 
  > 
-> 💼 Opted to Hire
+> 🏆 198 Contributions in the Year 2024
  > 
-> 📜 66 Public Repositories 
+> 🚫 Not Opted to Hire
  > 
-> 🔑 13 Private Repositories 
+> 📜 22 Public Repositories 
  > 
-**I'm a Night 🦉** 
+> 🔑 29 Private Repositories 
+ > 
+**I'm an Early 🐤** 
 
 ```text
-🌞 Morning                448 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.67 % 
-🌆 Daytime                2915 commits        █████████░░░░░░░░░░░░░░░░   36.90 % 
-🌃 Evening                3445 commits        ███████████░░░░░░░░░░░░░░   43.61 % 
-🌙 Night                  1092 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.82 % 
+🌞 Morning                765 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.81 % 
+🌆 Daytime                1848 commits        ██████████░░░░░░░░░░░░░░░   40.61 % 
+🌃 Evening                1334 commits        ███████░░░░░░░░░░░░░░░░░░   29.31 % 
+🌙 Night                  604 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.27 % 
+```
+📅 **I'm Most Productive on Sunday** 
+
+```text
+Monday                   579 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.72 % 
+Tuesday                  637 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.00 % 
+Wednesday                736 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.17 % 
+Thursday                 612 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.45 % 
+Friday                   486 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.68 % 
+Saturday                 581 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.77 % 
+Sunday                   920 commits         █████░░░░░░░░░░░░░░░░░░░░   20.22 % 
 ```
 
 
@@ -102,47 +112,36 @@ hobbies: ["Basketball", "Cinema", "Competitive Gaming", "IoT"]
 🕑︎ Time Zone: Asia/Dubai
 
 💬 Programming Languages: 
-C++                      1 hr 58 mins        █████████░░░░░░░░░░░░░░░░   34.27 % 
-Python                   1 hr 10 mins        █████░░░░░░░░░░░░░░░░░░░░   20.45 % 
-C                        58 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.84 % 
-XML                      38 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.18 % 
-Other                    25 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.41 % 
+TypeScript               8 hrs 16 mins       ████████░░░░░░░░░░░░░░░░░   31.41 % 
+JavaScript               7 hrs 17 mins       ███████░░░░░░░░░░░░░░░░░░   27.65 % 
+YAML                     6 hrs 5 mins        ██████░░░░░░░░░░░░░░░░░░░   23.15 % 
+Docker                   1 hr 21 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.12 % 
+JSON                     1 hr 4 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.09 % 
 
-🐱‍💻 Projects: 
-swarm_mission            2 hrs 46 mins       ████████████░░░░░░░░░░░░░   48.45 % 
-arrc-library             1 hr 22 mins        ██████░░░░░░░░░░░░░░░░░░░   24.05 % 
-swarm_docker             34 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.11 % 
-caltech_m4_bringup       30 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.75 % 
-swarm_uav_control_ros2   26 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.77 % 
+🔥 Editors: 
+WebStorm                 26 hrs 20 mins      █████████████████████████   100.00 % 
+DataGrip                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+
+💻 Operating System: 
+Mac                      26 hrs 20 mins      █████████████████████████   100.00 % 
 ```
 
-
- Last Updated on 15/10/2024 12:44:27 UTC
-<!--END_SECTION:waka-->
-
-<!--START_SECTION:waka-simple-->
+**I Mostly Code in JavaScript** 
 
 ```text
-From: 16 July 2020 - To: 14 October 2024
-
-Total Time: 1,804 hrs 13 mins
-
-C++                663 hrs 28 mins ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   36.77 %
-Go                 313 hrs 18 mins ⣿⣿⣿⣿⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   17.37 %
-Python             247 hrs 14 mins ⣿⣿⣿⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   13.70 %
-C                  140 hrs 25 mins ⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   07.78 %
-Bash               85 hrs 1 min    ⣿⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   04.71 %
-YAML               80 hrs 47 mins  ⣿⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   04.48 %
+JavaScript               32 repos            ██████████░░░░░░░░░░░░░░░   41.56 % 
+TypeScript               9 repos             ███░░░░░░░░░░░░░░░░░░░░░░   11.69 % 
+CSS                      7 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   09.09 % 
+Python                   5 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.49 % 
+Dart                     5 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.49 % 
 ```
 
-<!--END_SECTION:waka-simple-->
 
-Liked it ?
 
-*ERC-20 / EVM: **0x07ed706146545d01fa66a3c08ebca8c93a0089e5***
 
-*BTC: **bc1q3lu85cfkrc20ut64v90y428l79wfnv83mu72jv***
+ Last Updated on 16/10/2024 00:30:09 UTC
+<!--END_SECTION:waka-->
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer"/>
-</p>
+**These Readme stats are generated using github action [awesome-readme-stats](https://github.com/anmol098/waka-readme-stats)**
+
+NOTE: Top languages does not indicate my skill level or anything like that. It is just a metric of which languages have been hosted by me on GitHub based on the usage across repositories. There are others which I haven't put up on GitHub.
